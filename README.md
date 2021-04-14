@@ -18,7 +18,8 @@ Repo: https://github.com/mrjordantanner/clique
 # &nbsp;
 
 # TRNKT
-![Screen Shot 2021-03-16 at 8 33 44 AM](https://user-images.githubusercontent.com/50030252/111339155-89efed80-8645-11eb-88e1-c9a16fd93e96.png)##### 'trnkt', an art gallery app that displays NFT artwork from the opensea.io API.  Users can browse randomly selected NFT's and save their favorites.  Built using React.js.
+![Screen Shot 2021-03-16 at 8 33 44 AM](https://user-images.githubusercontent.com/50030252/111339155-89efed80-8645-11eb-88e1-c9a16fd93e96.png)
+##### 'trnkt', an art gallery app that displays NFT artwork from the opensea.io API.  Users can browse randomly selected NFT's and save their favorites.  Built using React.js.
 App: https://trnkt.herokuapp.com/
 Repo: https://github.com/mrjordantanner/trnkt
 # &nbsp;

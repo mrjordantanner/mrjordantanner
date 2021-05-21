@@ -8,7 +8,7 @@
 ## Recent Projects: 
 ---
 # Portfolio
-<img width="1423" alt="Screen Shot 2021-05-20 at 7 22 22 PM" src="https://user-images.githubusercontent.com/50030252/119064766-b73c7d00-b9a1-11eb-8bce-f2943219b024.png">
+<img width="800" alt="Screen Shot 2021-05-20 at 7 22 22 PM" src="https://user-images.githubusercontent.com/50030252/119064766-b73c7d00-b9a1-11eb-8bce-f2943219b024.png">
 ##### My web development portfolio was built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
 App: https://jordansmithdigital.com/
 Repo: https://github.com/mrjordantanner/portfolio

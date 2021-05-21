@@ -9,21 +9,21 @@
 ---
 # Portfolio
 <img width="800" alt="Screen Shot 2021-05-20 at 7 22 22 PM" src="https://user-images.githubusercontent.com/50030252/119064766-b73c7d00-b9a1-11eb-8bce-f2943219b024.png">
-##### My web development portfolio was built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
+#### My web development portfolio was built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
 App: https://jordansmithdigital.com/
 Repo: https://github.com/mrjordantanner/portfolio
 # &nbsp;
 
 # TRNKT
 ![https://trnkt.herokuapp.com/](https://user-images.githubusercontent.com/50030252/119064869-f5d23780-b9a1-11eb-8887-63d9f9ced9c6.gif)
-##### 'trnkt', an art gallery app that displays NFT artwork from the opensea.io API.  Users can browse randomly selected NFT's and save their favorites.  Built using React.js.
+#### 'trnkt', an art gallery app that displays NFT artwork from the opensea.io API.  Users can browse randomly selected NFT's and save their favorites.  Built using React.js.
 App: https://trnkt.herokuapp.com/
 Repo: https://github.com/mrjordantanner/trnkt
 # &nbsp;
 
 # Throw6
 ![https://mrjordantanner.github.io/throw-six/](https://user-images.githubusercontent.com/50030252/119065100-73964300-b9a2-11eb-9370-2c1f7ea1dbfc.gif)
-##### Throw6 is a single-player dice game built using vanilla JavaScript and Animate.css.  Give 'em a toss!
+#### Throw6 is a single-player dice game built using vanilla JavaScript and Animate.css.  Give 'em a toss!
 App: https://mrjordantanner.github.io/throw-six/
 Repo: https://github.com/mrjordantanner/throw-six
 # &nbsp;

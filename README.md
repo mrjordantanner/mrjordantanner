@@ -3,14 +3,14 @@
 ## Recent Projects: 
 # Portfolio
 ![Portfolio-GIF-640-Low](https://user-images.githubusercontent.com/50030252/119410670-d5122680-bcae-11eb-9951-65c1d52b2419.gif)
-### My web development portfolio was built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
+### Built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
 #### App: https://jordansmithdigital.com/ <br>
 #### Repo: https://github.com/mrjordantanner/portfolio
 # &nbsp;
 
 # TRNKT
 ![https://trnkt.herokuapp.com/](https://user-images.githubusercontent.com/50030252/119064869-f5d23780-b9a1-11eb-8887-63d9f9ced9c6.gif)
-### 'TRNKT', an art gallery app that displays NFT artwork from the opensea.io API.  Users can browse randomly selected NFT's and save their favorites.  Built using React.js.
+### 'TRNKT' is an art gallery app that displays NFT artwork from a third-party API.  Users can browse randomly selected NFT's and save their favorites.  Built with React.js, SASS, and the [OpenSea API.](https://docs.opensea.io/reference)
 #### App: https://trnkt.herokuapp.com/ <br>
 #### Repo: https://github.com/mrjordantanner/trnkt
 # &nbsp;

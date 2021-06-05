@@ -13,7 +13,7 @@ Repo: https://github.com/mrjordantanner/portfolio
 # TRNKT
 ![https://trnkt.herokuapp.com/](https://user-images.githubusercontent.com/50030252/119064869-f5d23780-b9a1-11eb-8887-63d9f9ced9c6.gif)
 #### 'trnkt', an art gallery app that displays NFT artwork from the opensea.io API.  Users can browse randomly selected NFT's and save their favorites.  Built using React.js.
-App: https://trnkt.herokuapp.com/
+App: https://trnkt.herokuapp.com/ <br>
 Repo: https://github.com/mrjordantanner/trnkt
 # &nbsp;
 

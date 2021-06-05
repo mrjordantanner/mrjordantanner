@@ -3,7 +3,7 @@
 ## Recent Projects: 
 # Portfolio
 ![Portfolio-GIF-640-Low](https://user-images.githubusercontent.com/50030252/119410670-d5122680-bcae-11eb-9951-65c1d52b2419.gif)
-### My portfolio features smooth parallax scrolling, minimal design aesthetic, and an alternate color theme.  Built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
+### My portfolio features smooth parallax scrolling, a minimal design aesthetic, and an alternate color theme.  Built using JQuery, SASS, and Locomotive Scroll.  Please check it out!
 #### App: https://jordansmithdigital.com/ <br>
 #### Repo: https://github.com/mrjordantanner/portfolio
 # &nbsp;

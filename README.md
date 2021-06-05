@@ -1,7 +1,6 @@
 # Howdy, I'm Jordan.  Welcome to my GitHub!
 
 ## Recent Projects: 
----
 # Portfolio
 ![Portfolio-GIF-640-Low](https://user-images.githubusercontent.com/50030252/119410670-d5122680-bcae-11eb-9951-65c1d52b2419.gif)
 #### My web development portfolio was built using JQuery, SASS, and Locomotive Scroll.  Please check it out!

@@ -1,4 +1,3 @@
-![JTS-Logo-1](https://user-images.githubusercontent.com/50030252/114729763-e6f2c800-9d05-11eb-9cb6-e6f499fae650.png)
 # Howdy, I'm Jordan.  Welcome to my GitHub!
 
 # &nbsp;

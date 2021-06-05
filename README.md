@@ -1,4 +1,4 @@
-# Howdy, I'm Jordan.  Welcome to my GitHub!
+# Greetings! I'm Jordan, a full-stack engineer with an eye for design.  Welcome to my GitHub!
 
 ## Recent Projects: 
 # Portfolio

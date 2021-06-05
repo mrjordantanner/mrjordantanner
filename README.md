@@ -1,6 +1,5 @@
 # Howdy, I'm Jordan.  Welcome to my GitHub!
 
-# &nbsp;
 ## Recent Projects: 
 ---
 # Portfolio

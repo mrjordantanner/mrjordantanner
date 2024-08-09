@@ -1,8 +1,2 @@
-# Howdy!  I'm Jordan, a Full-Stack Software Engineer & Game Developer based in Austin, Texas.  Welcome to my GitHub!
-
-## Proficiencies:
-<img src="https://simpleicons.org/icons/html5.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/css3.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/javascript.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/react.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/reactrouter.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/express.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/mongodb.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/python.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/django.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/unity.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/csharp.svg" height="50px" width="50px"><img src="https://simpleicons.org/icons/adobe.svg" height="50px" width="50px">
-
-
-
+# Howdy!  I'm Jordan, a Full-Stack Software Engineer & Game Developer based in Austin, Texas.  <br> Welcome to my GitHub!
 
